@@ -1,0 +1,90 @@
+[
+  {
+    "key": "KJ56R0AIYK",
+    "ceo": "AR Group",
+    "name": "MD.Masud Rana",
+    "img": "https://scontent.fdac128-1.fna.fbcdn.net/v/t1.6435-9/92952964_2567084200225528_2890596334048378880_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=oH_hQOvgvbgAX-Or8wM&_nc_ht=scontent.fdac128-1.fna&oh=e3c1cdace8e622ef40a5bf947dbf7033&oe=6173A619",
+    "donation": 680000,
+    "age":77
+  },
+  {
+    "key": "KJ56R0AHGD",
+    "ceo": "ali baba",
+    "name": "jack ma",
+    "img": "https://images.news18.com/ibnlive/uploads/2021/01/1609737272_jack-ma.jpg",
+    "donation": 280000,
+    "age":77
+  },
+  {
+    "key": "KJ56R0ATCA",
+    "ceo": "microsoft",
+    "name": "bill gates",
+    "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ebe0c87612dab4f12a597%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D292%26cropX2%3D3684%26cropY1%3D592%26cropY2%3D3987",
+    "donation": 460000,
+    "age":77
+  },
+  {
+    "key": "KJ56R0AVFD",
+    "ceo": "amazon",
+    "name": "jeff bezos",
+    "img": "https://pbs.twimg.com/profile_images/669103856106668033/UF3cgUk4_400x400.jpg",
+    "donation": 560000,
+    "age":77
+  },
+  {
+    "key": "KJ56R0ALKG",
+    "ceo": "tesla",
+    "name": "elon mask",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg",
+    "donation": 120000,
+    "age":77
+  },
+  {
+    "key": "KJ56R0AOTV",
+    "ceo": "facebook",
+    "name": "mark zugerbarg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA0lZdqulPdoMCQYlSVlCrKD6OGW1ZsA4DAw&usqp=CAU",
+    "donation": 340000,
+    "age":77
+  },
+  {
+    "key": "KJ56R0AMKC",
+    "ceo": "Alphabet Inc",
+    "name": "lary page",
+    "img": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B735%2C360%5D&w=1500&h=750&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F08%2F05%2Flarry-page.jpg",
+    "donation": 430000,
+    "age":77
+  },
+  {
+    "key": "KJ56R0ALFN",
+    "ceo": "Google",
+    "name": "Sergey Brin",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWmev5Nni35FQZf3-hPSk-FPrYGtSTOy1Iag&usqp=CAU",
+    "donation": 450000,
+    "age":77
+  },
+  {
+    "key": "KJ56R0AQAC",
+    "ceo": "Oracle Corporation",
+    "name": "Larry Ellison",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8YI2weBvgSnw8XQNCLAj4t-WIkcL8rvTyA&usqp=CAU",
+    "donation": 110000,
+    "age":77
+  },
+  {
+    "key": "KJ56R0ADBC",
+    "ceo": "Berkshire Hathaway",
+    "name": "Warren Buffett",
+    "img": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F6b07a722834041dfaf7d3fa03d7fc19b%2F960x0.jpg%3Ffit%3Dscale",
+    "donation": 360000,
+    "age":77
+  },
+  {
+    "key": "KJ56R0AEKA",
+    "ceo": "Inditex",
+    "name": "Amancio Ortega",
+    "img": "http://static2.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/2014/07/ao_thumb.jpg",
+    "donation": 290000,
+    "age":77
+  }
+]
